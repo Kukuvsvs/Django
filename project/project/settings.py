@@ -43,7 +43,7 @@ INSTALLED_APPS = [
     'django.contrib.flatpages',
 ]
 
-SITE_ID = 1
+SITE_ID = 0
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
